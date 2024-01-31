@@ -26,7 +26,7 @@ Jekyll builds this Just the Docs theme docs website using the theme itself. Thes
 
 Browse the docs to learn more about how to use this theme.
 
-## Getting started
+## Descrição da Letícia
 
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
 
