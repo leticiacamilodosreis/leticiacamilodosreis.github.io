@@ -9,7 +9,7 @@ permalink: /
 # Minha experiência profissional
 {: .fs-9 }
 
-nao existe.
+nao existe (ainda).
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
