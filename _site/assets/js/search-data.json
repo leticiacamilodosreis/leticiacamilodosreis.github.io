@@ -225,28 +225,28 @@
   },"32": {
     "doc": "Banco de questões",
     "title": "Banco de questões",
-    "content": "Projeto: Sistema de Quiz para Questões de Vestibular . ",
+    "content": "Projeto: Sistema de Quiz para Questões de Vestibular . Link para o respositório no GitHub . ",
     "url": "/docs/configuration/",
     
     "relUrl": "/docs/configuration/"
   },"33": {
     "doc": "Banco de questões",
-    "title": "Funcionalidades",
+    "title": "Funcionalidades:",
     "content": ". | Tem conexão com um banco de dados PostgreSQL contendo as perguntas; | Apresenta perguntas ao usuário e permite a entrada de respostas; | Verifica se a resposta fornecida está correta; | Repete a pergunta até que o usuário acerte; | Exibe uma mensagem de conclusão ao final de todas as perguntas. | . ",
     "url": "/docs/configuration/#funcionalidades",
     
     "relUrl": "/docs/configuration/#funcionalidades"
   },"34": {
     "doc": "Banco de questões",
-    "title": "Estrutura",
-    "content": " ",
+    "title": "Estrutura:",
+    "content": "O projeto é composto por três arquivos principais: . | main.py: O ponto de entrada do programa. | database.py: Define a classe responsável pela conexão e operações com o banco de dados. | questao.py: Define a classe que representa uma questão e sua lógica de verificação de resposta. | . ",
     "url": "/docs/configuration/#estrutura",
     
     "relUrl": "/docs/configuration/#estrutura"
   },"35": {
     "doc": "Banco de questões",
     "title": "Como executar o projeto",
-    "content": "Requisitos . ",
+    "content": "Requisitos: . | Python 3.x | PostgreSQL | Biblioteca psycopg2 para Python (instale com “pip install psycopg2” no terminal) | . Configuração do banco de dados: . Será necessário criar um banco de dados PostgreSQL chamado banco_questoes. Dentro desse banco, crie uma tabela chamada questoes com as colunas id, pergunta, e resposta_correta. Insira suas perguntas e respostas no banco de dados. Exemplo de criação da tabela e inserção de dados: . CREATE TABLE questoes ( id SERIAL PRIMARY KEY, pergunta TEXT NOT NULL, resposta_correta TEXT NOT NULL ); INSERT INTO questoes (pergunta, resposta_correta) VALUES ('Qual é a capital do Brasil?', 'Brasília'), ('Quanto é 5 + 7?', '12'), ('Qual é o maior planeta do Sistema Solar?', 'Júpiter'); . Como rodar: . | Certifique-se de que o banco de dados PostgreSQL está rodando. | Execute o script main.py | O sistema então buscará as questões no banco de dados e iniciará o quiz no terminal. | . ",
     "url": "/docs/configuration/#como-executar-o-projeto",
     
     "relUrl": "/docs/configuration/#como-executar-o-projeto"
