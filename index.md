@@ -9,11 +9,10 @@ permalink: /
 # Minha experiência profissional
 {: .fs-9 }
 
-nao existe
+Desenvolvedor em Início de Carreira com Foco em Python e Tecnologias Web
 {: .fs-6 .fw-300 }
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
-
+Possuo sólidos conhecimentos em Python, com experiência em programação orientada a objetos e manipulação de bancos de dados utilizando PostgreSQL. Tenho familiaridade com JavaScript e já trabalhei com React e Next.js em projetos web. Busco oportunidades para expandir meu conhecimento e aplicar minhas habilidades em ambientes dinâmicos e desafiadores.
 
 ## Descrição da Letícia
 
