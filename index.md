@@ -20,7 +20,5 @@ The [Just the Docs Template] provides the simplest, quickest, and easiest way to
 
 
 
-## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com).
 
